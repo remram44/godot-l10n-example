@@ -54,6 +54,7 @@ margin_left = 57.0
 margin_right = 221.0
 margin_bottom = 24.0
 text = "Vicky"
+placeholder_text = "John Doe"
 
 [node name="CheeseLabel" type="Label" parent="MarginContainer/VBoxContainer/GridContainer"]
 margin_top = 41.0
